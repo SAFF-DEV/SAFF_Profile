@@ -23,6 +23,6 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 
 ## Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]
+![in/sebastianfigueroa19](https://www.linkedin.com/in/sebastianfigueroa19)(https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=SAFF19&color=brightgreen)
