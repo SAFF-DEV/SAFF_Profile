@@ -19,7 +19,8 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
+## Badges
+![Python Project for AI and Application Development](https://www.credly.com/badges/a58b755e-8716-43cf-807e-a9e37114c418/public_url)
 
 ## Conectemos
 
